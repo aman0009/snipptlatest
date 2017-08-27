@@ -55,7 +55,8 @@
                 <div class="container">
      
                     <div class="navbar-header">
-                        <h1>Pavithram Holidays</h1>
+                        <h1 style="
+                        font-family: "Bad Script", cursive;">Pavithram Holidays</h1>
                     </div> 
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-left" style="margin-block-end:12px 177px; padding: 58px;"> 
